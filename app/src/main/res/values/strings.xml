@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Encuentrame</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_vista_login">VistaLogin</string>
+    <string name="title_activity_vista_producto_detalle">VistaProductoDetalle</string>
+    <string name="title_activity_vista_producto">VistaProducto</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="Signout">Signout</string>
+    <string name="CreateAccount">CreateAccount</string>
+    <string name="facebook_app_id">2337347559843366</string>
+    <string name="fb_login_protocol_scheme">fb2337347559843366</string>
+    <string name="SignIn">SignIn</string>
+    <string name="Crearcuenta">Crear Cuenta</string>
+    <string name="title_activity_vista_principal">vista_principal</string>
+    <string name="title_activity_menu">Menu</string>
+    <string name="menu_categorias">Categorias</string>
+    <string name="cv_mascotas">Mascotas</string>
+    <string name="cv_empleos">Empleos</string>
+    <string name="cv_vehiculos">Vehículos</string>
+    <string name="cv_casas">Inmuebles</string>
+</resources>

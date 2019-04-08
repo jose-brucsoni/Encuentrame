@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "1097766313105",
+    "firebase_url": "https://encuentrame-5c14c.firebaseio.com",
+    "project_id": "encuentrame-5c14c",
+    "storage_bucket": "encuentrame-5c14c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097766313105:android:76f0608a7ec8ee35",
+        "android_client_info": {
+          "package_name": "com.encuentrame.encuentrame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097766313105-udkfvcbv26mvoleurchh6d543522ekst.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.encuentrame.encuentrame",
+            "certificate_hash": "71849810c15bb422dafa707e9e826c21cb1dbf0e"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcnitryFYmpbpkIcO0YcxvVyF6TFt64Qo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097766313105-0nlocv85r0vo826pqgl72acqtobr9h9e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
