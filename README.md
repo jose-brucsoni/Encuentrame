@@ -1,3 +1,5 @@
+Aplicacion Android para publicar y buscar empleo. Tambien para venta/compra de Vehiculos, Inmuebles y Mascotas.
+
 # Encuentrame
 
 
