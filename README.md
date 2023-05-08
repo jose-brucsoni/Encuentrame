@@ -1,6 +1,5 @@
 # Encuentrame
 
-# Nombre de la aplicación
 
 ¡Encuentra todo lo que necesitas en una sola aplicación! Nuestra plataforma te ofrece una amplia variedad de opciones para encontrar empleos, vehículos, inmuebles y mascotas en tu ciudad. Ya sea que estés buscando un nuevo trabajo, un auto usado o un lugar para vivir, ¡nosotros te ayudamos a encontrarlo!
 
